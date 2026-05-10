@@ -43,7 +43,8 @@ Missing Word Prompting:
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
 OUTPUT:
-~~~1. Straightforward Prompts
+~~~
+1. Straightforward Prompts
 
 Description: Direct, one-step instructions for quick facts.
 
@@ -114,4 +115,5 @@ Scenario B: Chemistry
 
 Prompt: "The pH scale ranges from 0 to 14; a pH of 7 is considered ____."
 
-Result: Neutral.~~~
+Result: Neutral.
+~~~
