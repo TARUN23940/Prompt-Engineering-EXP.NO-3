@@ -69,21 +69,21 @@ Scenario A: Programming
 Prompt: "Table of Python vs. C++: Paradigm and Execution."
 
 Result:
-| Language | Paradigm | Execution |
-| :---   | :--- | :--- |
-| Python | Multi-paradigm | Interpreted |
-| C++    | Multi-paradigm | Compiled |
+| Language | Paradigm       | Execution   |
+| :---     | :---           | :---        |
+| Python   | Multi-paradigm | Interpreted |
+| C++      | Multi-paradigm | Compiled    |
 
 Scenario B: Geometry
 
 Prompt: "Table of Triangle, Square, and Pentagon: Number of sides."
 
 Result:
-| Shape | Sides |
-| :--- | :--- |
-| Triangle | 3 |
-| Square | 4 |
-| Pentagon | 5 |
+| Shape    | Sides |
+| :---     | :---  |
+| Triangle |   3   |
+| Square   |   4   |
+| Pentagon |   5   |
 
 3. Preceding Question Prompting
 
