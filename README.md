@@ -43,7 +43,7 @@ Missing Word Prompting:
 • "In photosynthesis, plants absorb sunlight to produce ____."
 
 OUTPUT:
-~~~1. Straightforward Prompts~~~
+~~~1. Straightforward Prompts
 
 Description: Direct, one-step instructions for quick facts.
 
@@ -59,7 +59,7 @@ Prompt: "How many players are on a standard soccer team on the field?"
 
 Result: 11 players.
 
-~~~2. Tabular Format Prompting~~~
+2. Tabular Format Prompting
    
 Description: Organizing data into a brief, scannable table.
 
@@ -84,7 +84,7 @@ Result:
 | Square | 4 |
 | Pentagon | 5 |
 
-~~~3. Preceding Question Prompting~~~
+3. Preceding Question Prompting
 
 Description: Establishing context with a question before asking for an explanation.
 
@@ -100,7 +100,7 @@ Prompt: "What is a conductor? Briefly explain why copper is commonly used in wir
 
 Result: A conductor allows electricity to flow easily. Copper is used because it has high conductivity and is relatively inexpensive.
 
-~~~4. Missing Word Prompting~~~
+4. Missing Word Prompting
 
 Description: A completion task for specific terminology.
 
@@ -114,4 +114,4 @@ Scenario B: Chemistry
 
 Prompt: "The pH scale ranges from 0 to 14; a pH of 7 is considered ____."
 
-Result: Neutral.
+Result: Neutral.~~~
